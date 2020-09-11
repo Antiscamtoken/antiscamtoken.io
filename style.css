@@ -113,7 +113,7 @@ header{
   width: 100%;
   margin-top: 50px;
   text-align: center;
-  font-size: 15px;
+  font-size: 9px;
   float: left;
   margin-left: 1px;
 }
@@ -178,7 +178,7 @@ header{
 }
 
 .t1{
-  font-size: 15px;
+  font-size: 9px;
 }
 
 .t{
@@ -240,7 +240,7 @@ header{
 
 footer{
   text-align: center;
-  font-size: 15px;
+  font-size: 9px;
   margin: 15px;
 }
 .left{
