@@ -291,7 +291,7 @@ html{
   
 }
 .swap{
-  font-size: 18px;
+  font-size: 23px;
 }
 a{
   text-decoration: none;
@@ -327,11 +327,11 @@ a:active {
 .home1{
   width: 100%;
   float: left;
-  font-size: 27px;
+  font-size: 35px;
   height: 100%;
   vertical-align: middle;
-  margin-bottom: 190px;
-  margin-top: 190px;
+  margin-bottom: 250px;
+  margin-top: 250px;
 }
 .home2{
   width: 100%;
@@ -392,7 +392,7 @@ header{
   background-color: rgb(4 108 148);
   width: 100%;
   text-align: center;
-  font-size: 25px;
+  font-size: 28px;
   float: left;
   margin-left: 1px;
 }
