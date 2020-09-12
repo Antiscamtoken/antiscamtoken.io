@@ -291,7 +291,7 @@ html{
   
 }
 .swap{
-  font-size: 15px;
+  font-size: 18px;
 }
 a{
   text-decoration: none;
@@ -327,7 +327,7 @@ a:active {
 .home1{
   width: 100%;
   float: left;
-  font-size: 20px;
+  font-size: 27px;
   height: 100%;
   vertical-align: middle;
   margin-bottom: 190px;
@@ -392,7 +392,7 @@ header{
   background-color: rgb(4 108 148);
   width: 100%;
   text-align: center;
-  font-size: 23px;
+  font-size: 25px;
   float: left;
   margin-left: 1px;
 }
@@ -499,13 +499,13 @@ header{
   text-align: center;
 }
 .i{
-  font-size: 15px;
+  font-size: 20px;
   justify-content: center;
   align-items: center;
   text-align: center;
   }
 .i1{
-  font-size: 25px;
+  font-size: 30px;
 }
 .info1{
     width: 70%;
