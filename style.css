@@ -10,6 +10,20 @@ html{
   width: 100%;
   
 }
+.gotopbtn{
+  position: fixed;
+  width: 20px;
+  height: 45px;
+  background: none;
+  bottom: 40px;
+  right: 50px;
+
+  text-decoration: none;
+  text-align: center;
+  line-height: 50px;
+  color: white;
+  font-size: 22px;
+}
 
 a{
   text-decoration: none;
