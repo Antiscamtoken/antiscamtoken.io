@@ -36,7 +36,7 @@ a:hover {
   background-color: rgb(2 100 120);
 }
 .swap{
-  font-size: 15px;
+  font-size: 0.8em;
 }
 a:active {
   background-color: black;
@@ -62,7 +62,7 @@ a:active {
 .home1{
   width: 50%;
   float: left;
-  font-size: 30px;
+  font-size: 2.5em;
   height: 100%;
   vertical-align: middle;
   
@@ -83,7 +83,7 @@ li{
   float: right;
   margin-right: 20px;
   color: white;
-  font-size: 15px;
+  font-size: 1.23em;
   vertical-align: middle;
   display: flex;
   margin-top: 20px;
@@ -110,7 +110,7 @@ header{
 
 .about{
   text-align: center;
-  font-size: 30px;
+  font-size: 3em;
 }
 
 .about2{
@@ -118,7 +118,7 @@ header{
   margin-left:auto;
   display: block;
   width: 45%;
-  font-size: 15px;
+  font-size: 0.45em;
   margin-bottom: 70px;
 }
 
@@ -127,7 +127,7 @@ header{
   width: 100%;
   margin-top: 50px;
   text-align: center;
-  font-size: 15px;
+  font-size: 1.25em;
   float: left;
   margin-left: 1px;
 }
@@ -135,7 +135,7 @@ header{
 .s0{
   width: 100%;
   margin-top: 70px;
-  font-size: 30px;
+  font-size: 3em;
 }
 
 .s1{
@@ -173,14 +173,14 @@ header{
   margin-right: auto;
   margin-left:auto;
   display: block;
-  font-size: 15px;
+  font-size: 1em;
 }
 
 .team{
   width: 100%;
   margin-top: 50px;
   text-align: center;
-  font-size: 16px;
+  font-size: 1.45em;
   float: left;
   margin-left: 1px;
   background: black;
@@ -188,11 +188,11 @@ header{
 
 .t0{
   width: 100%;
-  font-size: 30px;
+  font-size: 3em;
 }
 
 .t1{
-  font-size: 15px;
+  font-size: 0.8em;
 }
 
 .t{
@@ -236,13 +236,13 @@ header{
   text-align: center;
 }
 .i{
-  font-size: 15px;
+  font-size: 1.5em;
   justify-content: center;
   align-items: center;
   text-align: center;
   }
 .i1{
-  font-size: 30px;
+  font-size: 3.5em;
 }
 .info1{
     width: 50%;
@@ -254,7 +254,7 @@ header{
 
 footer{
   text-align: center;
-  font-size: 15px;
+  font-size: 1.2em;
   margin: 15px;
 }
 .left{
@@ -305,7 +305,7 @@ html{
   
 }
 .swap{
-  font-size: 23px;
+  font-size: 0.5em;
 }
 a{
   text-decoration: none;
@@ -343,7 +343,7 @@ a:active {
   width: 100%;
   height: ;
   float: left;
-  font-size: 45px;
+  font-size: 3em;
   vertical-align: middle;
   margin-bottom: 300px;
   margin-top: 300px;
@@ -366,7 +366,7 @@ li{
   float: right;
   margin-right: 15px;
   color: white;
-  font-size: 19px;
+  font-size: 1.2em;
   vertical-align: middle;
   display: flex;
   margin-top: 20px;
@@ -393,7 +393,7 @@ header{
 
 .about{
   text-align: center;
-  font-size: 15px;
+  font-size: 3em;
 }
 
 .about2{
@@ -401,7 +401,7 @@ header{
   margin-left:auto;
   display: block;
   width: 70%;
-  font-size: 16px;
+  font-size: 0.45em;
   margin-bottom: 70px;
 }
 
@@ -409,7 +409,7 @@ header{
   background-color: rgb(4 108 148);
   width: 100%;
   text-align: center;
-  font-size: 28px;
+  font-size: 1.25em;
   float: left;
   margin-left: 1px;
 }
@@ -417,7 +417,7 @@ header{
 .s0{
   width: 100%;
   margin-top: 30px;
-  font-size: 20px;
+  font-size: 3em;
 }
 
 .s1{
@@ -454,13 +454,13 @@ header{
   margin-right: auto;
   margin-left:auto;
   display: block;
-  font-size: 15px;
+  font-size: 1em;
 }
 .team{
   width: 100%;
   margin-top: 50px;
   text-align: center;
-  font-size: 25px;
+  font-size: 1.2em;
   float: left;
   margin-left: 1px;
   background: black;
@@ -468,11 +468,11 @@ header{
 
 .t0{
   width: 100%;
-  font-size: 15px;
+  font-size: 3em;
 }
 
 .t1{
-  font-size: 9px;
+  font-size: 0.9em;
 }
 
 .t{
@@ -516,13 +516,13 @@ header{
   text-align: center;
 }
 .i{
-  font-size: 20px;
+  font-size: 1em;
   justify-content: center;
   align-items: center;
   text-align: center;
   }
 .i1{
-  font-size: 30px;
+  font-size: 2.2em;
 }
 .info1{
     width: 70%;
@@ -534,15 +534,15 @@ header{
 
 footer{
   text-align: center;
-  font-size: 15px;
+  font-size: 1.2em;
   margin: 30px;
 }
 .left{
   float: left;
-  font-size: 17px;
+  font-size: 0.8em;
 }
 .right{
   float: right;
-  font-size: 17px;
+  font-size: 0.8em;
 }
 }
